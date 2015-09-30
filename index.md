@@ -20,5 +20,6 @@ This is my very much neglected [blog](https://flapperleenie.wordpress.com/).
 ### Contact
 
 my.name @ okfn.de
-
 GPG: `A7D7 CF9F 3CF4 45EF 175A CFD4 4658 56E3 CAAF 2DE1`
+
+IM: bumbleblue@jabber.zone
