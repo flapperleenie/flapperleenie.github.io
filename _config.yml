@@ -1,0 +1,9 @@
+# Site settings
+title: "Eileen Wagner"
+tag_text: Eileen Wagner
+description: "This is the personal website of Eileen Wagner."
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
