@@ -4,7 +4,7 @@ title: Propaganda
 ---
 
 Open knowledge
-: The [Open Knowledge Foundation](https://okfn.de) develops and implements digital tools to empower citizens. Our issues range from open data, civic tech to transparency and digital literacy.
+: The [Open Knowledge Foundation](https://okfn.de) develops and implements digital tools to empower citizens. Our issues range from open data and civic tech to transparency and digital literacy.
 
 Open-ended hierarchies
 : If plural logic is awesome, then superplural logic must be super awesome. More about cheerios, innocence and open-ended hierarchies in my master's thesis, [Superplural Logic](https://www.illc.uva.nl/Research/Publications/Reports/MoL-2015-23.text.pdf).
