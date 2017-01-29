@@ -2,7 +2,7 @@
 layout: post
 title:  "Why I'm Not a Vegetarian"
 date:   2014-09-15
-description: A humble attempt
+description: A humble attempt.
 categories:
 - food
 - LGBT
