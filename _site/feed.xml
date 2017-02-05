@@ -5,12 +5,27 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 17 Mar 2016 16:36:01 +0100</pubDate>
-    <lastBuildDate>Thu, 17 Mar 2016 16:36:01 +0100</lastBuildDate>
-    <generator>Jekyll v3.0.3</generator>
+    <pubDate>Sun, 05 Feb 2017 15:42:00 +0800</pubDate>
+    <lastBuildDate>Sun, 05 Feb 2017 15:42:00 +0800</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>Why I&#39;m Not a Vegetarian</title>
+        <title>The Mills Brothers</title>
+        <description>&lt;p&gt;Every now and then, I wonder why there is no biography of the Mills Brothers.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Nov 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/music/biography/2016/11/20/mills/</link>
+        <guid isPermaLink="true">http://localhost:4000/music/biography/2016/11/20/mills/</guid>
+        
+        
+        <category>music</category>
+        
+        <category>biography</category>
+        
+      </item>
+    
+      <item>
+        <title>Why I'm Not a Vegetarian</title>
         <description>&lt;p&gt;I am an omnivore by choice. I feel that I shouldn’t discriminate against particular foods a priori. I should try them and then decide for myself. That, of course, doesn’t mean I don’t have a preference. I love goat’s cheese, I really, really, &lt;em&gt;really&lt;/em&gt; hate raisins, and I could eat Nutella for the rest of my life. And there is no unique explanation for why I like the foods I like – sometimes their taste, texture, or smell is divine, other times I like the eating rituals, and now and then I go for something sentimental, e.g. those dubious fish-shaped chocolate cakes I used to pick up on the way home from school. What’s more, my taste preference is not uniquely determined by my taste buds: there may be genetic predispositions involved, but what I ate in my early childhood certainly influenced me as well.&lt;/p&gt;
 
 &lt;p&gt;Political, environmental, and animal rights issues inform our choices as ethical consumers. Thanks to the insistent education of my friends, I began to eat less meat, in fact so little that &lt;em&gt;extensionally&lt;/em&gt;, you might call me a vegetarian. And to promote social change, as they say, you should advocate your vegetarianism. So when asked about dietary requirements, we should always stand up to our carni-normative society.&lt;/p&gt;
@@ -39,7 +54,7 @@
   &lt;p&gt;Update: Based on the feedback I heard from my handful of readers, the message of this blog post was lost. I apologise. Please read it again and see how far you can take the food and sex analogy!&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Mon, 15 Sep 2014 00:00:00 +0200</pubDate>
+        <pubDate>Mon, 15 Sep 2014 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/food/lgbt/gender/2014/09/15/vegetarian/</link>
         <guid isPermaLink="true">http://localhost:4000/food/lgbt/gender/2014/09/15/vegetarian/</guid>
         
@@ -102,7 +117,7 @@ Finished!&lt;/li&gt;
 
 &lt;p&gt;&lt;strong&gt;Variations?&lt;/strong&gt; As is probably clear by now, I’m a purist and hate those silly balls in poisonous green liquids. Although I’m really happy with my current bubble tea supply, I can imagine altering the flavour of the milk tea. How about chai tea latte or mocha powder as the base of the milk tea? Or try adding a little Amaretto or Baileys for those cold winter days…&lt;/p&gt;
 </description>
-        <pubDate>Thu, 30 Jan 2014 00:00:00 +0100</pubDate>
+        <pubDate>Thu, 30 Jan 2014 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/food/2014/01/30/bubbletea/</link>
         <guid isPermaLink="true">http://localhost:4000/food/2014/01/30/bubbletea/</guid>
         
@@ -112,7 +127,7 @@ Finished!&lt;/li&gt;
       </item>
     
       <item>
-        <title>Geach&#39;s Song: a Transcription</title>
+        <title>Geach's Song: a Transcription</title>
         <description>&lt;p&gt;&lt;em&gt;Judging by the fact that not even one sudoku has been posted here in the last year, non-believers might say that my blog has officially died. Well, shun the non-believers! Here’s an attempt to resurrect it.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I was very sad to hear that Peter Geach died recently. Last year, Leiter Reports posted a &lt;a href=&quot;http://leiterreports.typepad.com/blog/2013/05/geach-sings-about-frege-russell-and-wittgenstein-.html&quot;&gt;recording&lt;/a&gt; of Geach singing his version of the Lorelei (written by Heinrich Heine, set to music by Friedrich Silcher). I transcribed the German lyrics for those who are curious.&lt;/p&gt;
@@ -144,7 +159,7 @@ Finished!&lt;/li&gt;
 &lt;br /&gt;Und das hat mit seinem Singen
 &lt;br /&gt;Herr Wittgenstein getan!&lt;/p&gt;
 </description>
-        <pubDate>Mon, 20 Jan 2014 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 20 Jan 2014 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/philosophy/logic/music/2014/01/20/geach/</link>
         <guid isPermaLink="true">http://localhost:4000/philosophy/logic/music/2014/01/20/geach/</guid>
         
@@ -158,10 +173,10 @@ Finished!&lt;/li&gt;
       </item>
     
       <item>
-        <title>It ain&#39;t necessarily so...</title>
+        <title>It ain't necessarily so...</title>
         <description>&lt;p&gt;“It ain’t necessarily so…” is one of the most memorable songs from the Gershwin opera Porgy and Bess. Apart from raising serious doubts about the stories one finds in the Bible, I think it also provides an excellent title for this brand-new, super-fresh, and certainly mind-blowing blog on philosophy and living with philosophy. As to the form and content of this blog: I haven’t a clue. I will simply let it live for a while and see where it takes me. If all things fail, sudokus shall be published on a weekly basis.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 20 Jan 2013 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 20 Jan 2013 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/philosophy/music/2013/01/20/welcome/</link>
         <guid isPermaLink="true">http://localhost:4000/philosophy/music/2013/01/20/welcome/</guid>
         
