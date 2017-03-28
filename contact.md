@@ -11,6 +11,6 @@ PGP: `8157 BE9E 1BF5 2CA7 C9EE A2BC B97D C997 3A6B 8452`
 
 IM: bumbleblue@jabber.zone
 
-[github]: https://github.com/gayanvirajith
+[github]: https://github.com/flapperleenie
 [twitter]: https://twitter.com/flapperleenie
 [ello]: https://ello.co/bumbleblue
