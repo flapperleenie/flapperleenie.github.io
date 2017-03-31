@@ -5,15 +5,66 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 05 Feb 2017 15:42:00 +0800</pubDate>
-    <lastBuildDate>Sun, 05 Feb 2017 15:42:00 +0800</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
+    <pubDate>Fri, 31 Mar 2017 18:59:52 +0200</pubDate>
+    <lastBuildDate>Fri, 31 Mar 2017 18:59:52 +0200</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Open Communities</title>
+        <description>&lt;p&gt;Over the past decade, the open knowledge movement has created communities worldwide that work on open data, open access, open licensing, and open governments. The meaning of the term ‘open’ is determined by the way in which different kinds of information is made public: public data should be published online in machine readable form, software should be open source, scientific research should be made available to the general public. When we talk about openness with respect to governments, however, we value &lt;em&gt;form&lt;/em&gt; as well as content. Civic tech focusses on building participatory tools and processes for citizens – because we demand that our governments be transparent, collaborative, and inclusive. This is done not only by having open data available to the public, but by creating open processes through communication and interaction.&lt;/p&gt;
+
+&lt;p&gt;During my time at &lt;a href=&quot;http://g0v.asia/&quot;&gt;g0v&lt;/a&gt; (Code for Taiwan), I had the opportunity to witness what openness means for a community. g0v is not just a community working on openness, but one that applies the same principles to itself: open to new people, receptive to different ideas, and transparent to the core. These principles were born out of two separate groups: the Sunflower Movement, which campaigned for a transparent and participatory legislative process in Taiwan 2014, and the still growing local community of free software developers who have always worked in the open, collaboratively. Their intersection has resulted in g0v.tw – an organisation that would go on to build websites so sensible and usable that the government could take over with a minimal change in the URL (gov.tw).&lt;/p&gt;
+
+&lt;h3 id=&quot;bottom-up-community-organising&quot;&gt;Bottom-up community organising&lt;/h3&gt;
+
+&lt;p&gt;The origin myth behind g0v begins with certain complaints on certain IRC channels. A recurring phrase was ‘Why is nobody doing…?’, as in ‘Why isn’t g0v tracking new legislature by the government?’ The legendary response: ‘Don’t ask why nobody is doing this – because you are that “nobody”!’ Since then, g0vers have self-identified as ‘nobodys’ (沒有人). If you have an idea, just do it – there is no need to ask and no one to get permission from.&lt;/p&gt;
+
+&lt;p&gt;This approach shaped a culture of bottom-up initiatives over the past three years. When you have a project, the first thing you do is post it on their &lt;a href=&quot;https://g0v.hackpad.com/&quot;&gt;Hackpad&lt;/a&gt; and open up a &lt;a href=&quot;https://github.com/g0v&quot;&gt;repo&lt;/a&gt;. Most of the work is done virtually and organised through their Hackpad tool, the &lt;a href=&quot;http://beta.hackfoldr.org/&quot;&gt;Hackfoldr&lt;/a&gt;. The bi-monthly ‘jothons’ (hackathons), with well over a hundred participants, offer a chance to see everyone.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://join.g0v.today/&quot;&gt;Joining the community&lt;/a&gt; is simple and contributing to projects straightforward. Newbies are immediately granted contributor rights in the organisation – because anybody can be nobody. They are also given quick introductions to the &lt;a href=&quot;http://g0v.tw/en-US/join.html&quot;&gt;infrastructure&lt;/a&gt; (git, Slack, Hackfoldr) complete with a list of g0v &lt;a href=&quot;https://g0v.hackpad.com/-g0v--MI7fGNIdygb&quot;&gt;jargon&lt;/a&gt;. Interestingly, the jargon is mostly non-technical. The important concept of this volunteer-based community is that of a hole (坑). When you propose a project, you’re ‘digging a hole’. You can also ‘jump into a hole’ (get on board with a project), ‘fill a hole’ (finish work on a project), ‘push the hole’ (hand off work to someone else), … You get the idea. (Here’s the &lt;a href=&quot;https://g0v.hackpad.com/cr5AJ14IFh8&quot;&gt;illustration&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/blog/slackg0v.png&quot; alt=&quot;slackg0v&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Who just forked my project? Oh, &lt;em&gt;nobody&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For bigger initiatives, people spontaneously form task forces that work toward a particular goal. g0v, a community of more than 2500 developers, has 20-30 of these task forces. The organisational structure is multi-centered: different groups of people are in charge of different things, but everything is essentially bottom-up – or in &lt;a href=&quot;http://g0v.tw/en-US/manifesto.html&quot;&gt;their words&lt;/a&gt;, they are a liquid democracy.&lt;/p&gt;
+
+&lt;h3 id=&quot;radical-transparency&quot;&gt;Radical transparency&lt;/h3&gt;
+
+&lt;p&gt;It is one thing to grow a community from a small group of wishful thinkers to a full-fledged liquid democracy – and another to sustain it. One reason for the success of g0v is no doubt the incredible amount of support and respect the community gives to contributors. Another remarkable aspect of this community is its unshakeable commitment to transparency: “Everything we produce — source code, documents, formulas, analyses and processes — is made available for anyone to view, react to, use and improve.” You’ll find their &lt;a href=&quot;https://trello.com/b/f8gWnjeC/g0v-jothon-organizer&quot;&gt;jothon organisers’ Trello&lt;/a&gt;, complete &lt;a href=&quot;https://logbot.g0v.tw/channel/g0v.tw/today&quot;&gt;IRC logs&lt;/a&gt;, and collection of favourite &lt;a href=&quot;https://g0v.hackpad.com/-g0v--MI7fGNIdygb&quot;&gt;quotations&lt;/a&gt; from people in the community without any trouble. The Digital Minister of Taiwan and Nobody, Audrey Tang, has also implemented these &lt;a href=&quot;https://talk.pdis.nat.gov.tw/t/principles-for-handling-official-visits-to-digital-minister-audrey-tang/70&quot;&gt;radical transparency principles&lt;/a&gt; in her political office (literally).&lt;/p&gt;
+
+&lt;p&gt;But more importantly, all processes by which this community functions are transparent, too. Even private groups, whose work is not publicly discussed, still have transparent membership criteria – designed, also, by the community. Take the process by which they allocate their &lt;a href=&quot;https://grants.g0v.tw/&quot;&gt;civic tech grants&lt;/a&gt;. All submissions are published on the &lt;a href=&quot;https://grants.g0v.tw/dashboards/2017spring&quot;&gt;site&lt;/a&gt; before the jury views them, and the community is invited to post public comments and questions about the proposals before the selection process even begins.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/blog/grantg0v.jpeg&quot; alt=&quot;grantg0v&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Nobody&lt;/em&gt; wants to give you money!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Community organising that values transparency, accountability, and participation is healthy and encouraging. This shouldn’t come as a surprise to the civic tech scene, who have advocated exactly these principles in the government for a long time now. Setting up open infrastructure and transparent decision-making processes within one’s organisation is perhaps more easily said than done. Tools like Github and Hackfoldr help – but before we can implement open tools, we need open minds. g0v shows that applying openness principles to one’s community is not only possible, but in fact, fun! To them, community organising is truly about enabling people, connecting teams, and supporting contributors no matter what crazy holes they are digging. It’s time to practice what we preach.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;More stories on g0v in English are on &lt;a href=&quot;https://g0v.news/tagged/en&quot;&gt;g0v.news&lt;/a&gt;. Eileen’s visit to g0v (Code for Taiwan) was made possible by an exchange fellowship from &lt;a href=&quot;https://codeforall.org/&quot;&gt;Code for All&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 30 Mar 2017 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/openness/taiwan/2017/03/30/g0v/</link>
+        <guid isPermaLink="true">http://localhost:4000/openness/taiwan/2017/03/30/g0v/</guid>
+        
+        
+        <category>openness</category>
+        
+        <category>Taiwan</category>
+        
+      </item>
     
       <item>
         <title>The Mills Brothers</title>
         <description>&lt;p&gt;Every now and then, I wonder why there is no biography of the Mills Brothers.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 20 Nov 2016 00:00:00 +0800</pubDate>
+        <pubDate>Sun, 20 Nov 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/music/biography/2016/11/20/mills/</link>
         <guid isPermaLink="true">http://localhost:4000/music/biography/2016/11/20/mills/</guid>
         
@@ -54,7 +105,7 @@
   &lt;p&gt;Update: Based on the feedback I heard from my handful of readers, the message of this blog post was lost. I apologise. Please read it again and see how far you can take the food and sex analogy!&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Mon, 15 Sep 2014 00:00:00 +0800</pubDate>
+        <pubDate>Mon, 15 Sep 2014 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/food/lgbt/gender/2014/09/15/vegetarian/</link>
         <guid isPermaLink="true">http://localhost:4000/food/lgbt/gender/2014/09/15/vegetarian/</guid>
         
@@ -117,7 +168,7 @@ Finished!&lt;/li&gt;
 
 &lt;p&gt;&lt;strong&gt;Variations?&lt;/strong&gt; As is probably clear by now, I’m a purist and hate those silly balls in poisonous green liquids. Although I’m really happy with my current bubble tea supply, I can imagine altering the flavour of the milk tea. How about chai tea latte or mocha powder as the base of the milk tea? Or try adding a little Amaretto or Baileys for those cold winter days…&lt;/p&gt;
 </description>
-        <pubDate>Thu, 30 Jan 2014 00:00:00 +0800</pubDate>
+        <pubDate>Thu, 30 Jan 2014 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/food/2014/01/30/bubbletea/</link>
         <guid isPermaLink="true">http://localhost:4000/food/2014/01/30/bubbletea/</guid>
         
@@ -159,7 +210,7 @@ Finished!&lt;/li&gt;
 &lt;br /&gt;Und das hat mit seinem Singen
 &lt;br /&gt;Herr Wittgenstein getan!&lt;/p&gt;
 </description>
-        <pubDate>Mon, 20 Jan 2014 00:00:00 +0800</pubDate>
+        <pubDate>Mon, 20 Jan 2014 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/philosophy/logic/music/2014/01/20/geach/</link>
         <guid isPermaLink="true">http://localhost:4000/philosophy/logic/music/2014/01/20/geach/</guid>
         
@@ -176,7 +227,7 @@ Finished!&lt;/li&gt;
         <title>It ain't necessarily so...</title>
         <description>&lt;p&gt;“It ain’t necessarily so…” is one of the most memorable songs from the Gershwin opera Porgy and Bess. Apart from raising serious doubts about the stories one finds in the Bible, I think it also provides an excellent title for this brand-new, super-fresh, and certainly mind-blowing blog on philosophy and living with philosophy. As to the form and content of this blog: I haven’t a clue. I will simply let it live for a while and see where it takes me. If all things fail, sudokus shall be published on a weekly basis.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 20 Jan 2013 00:00:00 +0800</pubDate>
+        <pubDate>Sun, 20 Jan 2013 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/philosophy/music/2013/01/20/welcome/</link>
         <guid isPermaLink="true">http://localhost:4000/philosophy/music/2013/01/20/welcome/</guid>
         
