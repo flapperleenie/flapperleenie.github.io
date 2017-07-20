@@ -14,4 +14,6 @@ title: Blog archive
   		{% endif %}
     <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
   {% endfor %}
-  {::nomarkdown}</div>{:/nomarkdown}
+  {::nomarkdown}
+  </div>
+  {:/nomarkdown}
