@@ -4,14 +4,14 @@ title: About me
 permalink: /about/
 ---
 
-I work in civic tech and advocacy. I explore ways to make a difference with science and tech (and funding). I enjoy telling people about all things open.
+Hi, I'm Eileen. I am a logician turned technologist. I like breaking things down, juggling ideas, and writing up my thoughts in flow charts. I read documentations as a hobby, and I am a compulsive list maker. I believe that openness matters.
 
-I'm part of the team behind [Code for Germany](http://codefor.de/) and [Prototype Fund](http://prototypefund.de/). My focus is on communications and content, and on international exchange.
+Until recently, I was part of the team behind [Code for Germany](http://codefor.de/) and [Prototype Fund](http://prototypefund.de/). We explore ways to make a difference with technology, especially with funding for open source projects. My focus was on communications and content.
 
-I studied Philosophy at [Trinity College, Cambridge](http://www.trin.cam.ac.uk/) and Logic at the [Institute for Logic, Language and Computation](http://www.illc.uva.nl/) in Amsterdam.
+I studied Philosophy at [Trinity College, Cambridge](http://www.trin.cam.ac.uk/) and Logic at the [Institute for Logic, Language and Computation](http://www.illc.uva.nl/) in Amsterdam. I contribute to the [Open Logic Project](http://openlogicproject.org/).
 
 I am originally from Berlin, where I attended the [John F. Kennedy School](http://jfks.de/).
 
 I love Duke Ellington &#38; Billy Strayhorn. I hate raisins.
 
-I don't always start each paragraph with 'I'.
+If you want to collaborate on a project, why not <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#64;&#98;&#117;&#109;&#98;&#108;&#101;&#46;&#98;&#108;&#117;&#101;">get in touch</a>?
