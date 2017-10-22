@@ -3,8 +3,11 @@ layout: page
 title: Propaganda
 ---
 
+Open resources
+: Simply Secure has a [knowledge base](https://simplysecure.org/knowledge-base/) for building skills in privacy, security, and transparency. These practical guides written for busy practitioners range from basics requiring no prior knowledge to technical discussion of the latest developments.
+
 Open knowledge
-: The [Open Knowledge Foundation](https://okfn.de) develops and implements digital tools to empower citizens. Our issues range from open data and civic tech to transparency and digital literacy.
+: The [Open Knowledge Foundation](https://okfn.de) develops and implements digital tools to empower citizens. Their issues range from open data and civic tech to transparency and digital literacy.
 
 Open-ended hierarchies
 : If plural logic is awesome, then superplural logic must be super awesome. More about cheerios, innocence and open-ended hierarchies in my master's thesis, [Superplural Logic](https://www.illc.uva.nl/Research/Publications/Reports/MoL-2015-23.text.pdf).

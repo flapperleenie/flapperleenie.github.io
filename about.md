@@ -4,9 +4,9 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I'm Eileen. I am a logician turned technologist. I like breaking things down, juggling ideas, and writing up my thoughts in flow charts. I read documentations as a hobby, and I am a compulsive list maker. I believe that openness matters.
+Hi, I'm Eileen. I am a technologist who cares deeply about design and usability. I work for [Simply Secure](https://simplysecure.org/) as a program associate, where I help others think about designing for privacy, security, and transparency. I like breaking things down, juggling ideas, and writing up my thoughts in flow charts. I believe that openness matters.
 
-Until recently, I was part of the team behind [Code for Germany](http://codefor.de/) and [Prototype Fund](http://prototypefund.de/). We explore ways to make a difference with technology, especially with funding for open source projects. My focus was on communications and content.
+Previously, I was part of the team behind [Code for Germany](https://codefor.de/) and [Prototype Fund](https://prototypefund.de/). We explored ways to make a difference with technology, both through community organising and funding for open source projects. My focus was on communication and content.
 
 I studied Philosophy at [Trinity College, Cambridge](http://www.trin.cam.ac.uk/) and Logic at the [Institute for Logic, Language and Computation](http://www.illc.uva.nl/) in Amsterdam. I contribute to the [Open Logic Project](http://openlogicproject.org/).
 
