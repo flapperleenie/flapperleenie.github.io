@@ -4,7 +4,7 @@ title: Propaganda
 ---
 
 Open resources
-: Simply Secure has a [knowledge base](https://simplysecure.org/knowledge-base/) for building skills in privacy, security, and transparency. These practical guides written for busy practitioners range from basics requiring no prior knowledge to technical discussion of the latest developments.
+: Simply Secure has a [knowledge base](https://simplysecure.org/knowledge-base/) for building skills in privacy, security, and transparency.
 
 Open knowledge
 : The [Open Knowledge Foundation](https://okfn.de) develops and implements digital tools to empower citizens. Their issues range from open data and civic tech to transparency and digital literacy.
@@ -21,3 +21,9 @@ Open relationships
 
 Open rehearsals
 : You like singing, close harmony, and sappy old love songs? Oh wow. I guess you should join your local barbershop community. Berliners, why not check out the [Women in Black](http://womeninblack.de/).
+
+Open table
+: I run a [stammtisch](https://en.wikipedia.org/wiki/Stammtisch) in Berlin. Join our [mailing list](https://lists.posteo.de/listinfo/schlammtisch) to attend!
+
+Open to suggestions
+: You think something should be included in this list? Ping me!
