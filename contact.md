@@ -11,6 +11,6 @@ PGP: `FBBC A68D 3696 0A1A E525 A7AC 1138 6F17 941D 6EFC`
 
 IM: bumbleblue@jabber.zone
 
-[github]: https://github.com/gayanvirajith
+[github]: https://github.com/flapperleenie
 [twitter]: https://twitter.com/flapperleenie
 [ello]: https://ello.co/bumbleblue
