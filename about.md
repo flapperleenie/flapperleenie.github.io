@@ -4,14 +4,12 @@ title: About me
 permalink: /about/
 ---
 
-👋 I'm Eileen, and I care about usable security. I work for [Simply Secure](https://simplysecure.org/) as a program associate, where I help others think about designing for privacy, security, and transparency. I like breaking things down, juggling ideas, and writing up my thoughts in flow charts. I believe that openness matters.
+👋 I'm Eileen, and I care about usable security. I work for [Simply Secure](https://simplysecure.org/) as a programs associate, where I help others think about designing for privacy, security, and transparency. I like breaking things down, juggling ideas, and writing up my thoughts in flow charts. I believe that openness matters.
 
-Previously, I was part of the team behind [Code for Germany](https://codefor.de/) and the [Prototype Fund](https://prototypefund.de/). We explored ways to make a difference with technology, both through community organising and funding for open source projects. My focus was on communication and content.
+Previously, I was part of the team behind [Code for Germany](https://codefor.de/) that launched the [Prototype Fund](https://prototypefund.de/). We explored ways to make a difference with technology, both through community organising and funding for open source projects. My focus was on communication and content.
 
 I studied Philosophy at [Trinity College, Cambridge](http://www.trin.cam.ac.uk/) and Logic at the [Institute for Logic, Language and Computation](http://www.illc.uva.nl/) in Amsterdam. I contribute to the [Open Logic Project](http://openlogicproject.org/).
 
 I am originally from Berlin, where I attended the [John F. Kennedy School](http://jfks.de/).
 
-I love Duke Ellington &#38; Billy Strayhorn. I hate raisins.
-
-If you want to collaborate on a project, why not <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#64;&#98;&#117;&#109;&#98;&#108;&#101;&#46;&#98;&#108;&#117;&#101;">get in touch</a>?
+If you want to collaborate on a project, do <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#64;&#98;&#117;&#109;&#98;&#108;&#101;&#46;&#98;&#108;&#117;&#101;">get in touch</a>!
