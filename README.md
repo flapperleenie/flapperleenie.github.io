@@ -1,1 +1,0 @@
-Personal site of Eileen Wagner, powered by [Harmony](https://github.com/gayanvirajith/harmony).
